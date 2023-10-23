@@ -2,5 +2,5 @@
 
 - Open aUTHENTICATION
 - One approach to user authentication
-- Uses rd party services like Facebook, Google+,GitHub etc
+- Use 3rd party services like Facebook, Google+,GitHub etc
 
