@@ -1,2 +1,6 @@
-# passportjs
-for third party authentication like google, facebook and github etc
+# OAuth (at a glance)
+
+- Open aUTHENTICATION
+- One approach to user authentication
+- Uses rd party services like Facebook, Google+,GitHub etc
+
